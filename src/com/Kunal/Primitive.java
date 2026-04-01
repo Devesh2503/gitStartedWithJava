@@ -3,7 +3,6 @@ package com.Kunal;
 public class Primitive {
     public static void main(String[] args){
         int rollno=10;
-
         char letter='r';
         float marks= 98.67f;
         double largeDecimalNumbers=43234321;
