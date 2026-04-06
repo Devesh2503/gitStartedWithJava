@@ -6,6 +6,24 @@ public class Loops {
         for(int i=1;i<=10;i++){
             System.out.print(i+" ");
         }
+
+        // while loop
+
+        int num=1;
+        while(num<=5){
+            System.out.println(num+" ");
+            num+=1;
+        }
+
+        // do while loop
+        // here in do while loop the loop will execute at least once
+        int n=10;
+        do{
+            System.out.print(n+" ");
+        }while(n<10){
+            System.out.print(n+" ");
+            n++;
+        }
     }
 }
 
