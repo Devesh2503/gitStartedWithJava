@@ -20,10 +20,12 @@ public class Loops {
         int n=10;
         do{
             System.out.print(n+" ");
-        }while(n<10){
+            n++;
+        }while(n<10);
+        {
             System.out.print(n+" ");
             n++;
-        }
+        };
     }
 }
 
