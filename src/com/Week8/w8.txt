@@ -1,0 +1,15 @@
+Exception Handling
+Custom Exceptions
+File Handling
+Serialization
+
+By the end of this week, you will:
+
+✅ Understand what exceptions are
+✅ Use try-catch blocks
+✅ Handle multiple exceptions
+✅ Use finally block
+✅ Create custom exceptions
+✅ Read files
+✅ Write files
+✅ Build a Logger System Project
